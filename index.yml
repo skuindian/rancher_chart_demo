@@ -1,0 +1,8 @@
+name: Demo App Test
+description: >
+  A Demo App which does almost nothing of any practical value.
+version: 0.0.1-rancher1
+category: Toy Apps
+maintainer: Saurabh <skuindian0@gmail.com>
+license: Apache2
+projectURL: https://github.com/skuindian/rancher_chart_demo
